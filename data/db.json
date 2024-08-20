@@ -1,0 +1,144 @@
+{
+  "careers":[
+  {
+      "id": 1,
+      "title": "Software Engineer",
+      "salary": 85000,
+      "location": "Silicon Valley",
+      "details": "Develops and maintains software applications, working closely with cross-functional teams to deliver high-quality products."
+  },
+  {
+      "id": 2,
+      "title": "Marketing Manager",
+      "salary": 68000,
+      "location": "New York City",
+      "details": "Oversees marketing strategies and campaigns, driving brand awareness and customer engagement across multiple channels."
+  },
+  {
+      "id": 3,
+      "title": "Data Analyst",
+      "salary": 72000,
+      "location": "Toronto",
+      "details": "Analyzes data sets to identify trends and insights, providing actionable recommendations to support business decisions."
+  },
+  {
+      "id": 4,
+      "title": "Graphic Designer",
+      "salary": 54000,
+      "location": "Los Angeles",
+      "details": "Creates visual content for various media, including websites, advertising, and branding, ensuring a cohesive design aesthetic."
+  },
+  {
+      "id": 5,
+      "title": "Financial Advisor",
+      "salary": 92000,
+      "location": "Chicago",
+      "details": "Provides financial planning and investment advice to clients, helping them achieve their financial goals and secure their futures."
+  },
+  {
+      "id": 6,
+      "title": "Human Resources Specialist",
+      "salary": 62000,
+      "location": "Atlanta",
+      "details": "Manages recruitment, employee relations, and benefits administration, ensuring a positive workplace environment."
+  },
+  {
+      "id": 7,
+      "title": "Project Manager",
+      "salary": 85000,
+      "location": "Boston",
+      "details": "Leads project teams to deliver projects on time and within budget, coordinating tasks, resources, and stakeholders."
+  },
+  {
+      "id": 8,
+      "title": "Web Developer",
+      "salary": 78000,
+      "location": "San Francisco",
+      "details": "Designs, builds, and maintains websites and web applications, ensuring optimal performance and user experience."
+  },
+  {
+      "id": 9,
+      "title": "Digital Marketing Specialist",
+      "salary": 60000,
+      "location": "Miami",
+      "details": "Plans and executes digital marketing campaigns, including SEO, PPC, and social media, to drive online traffic and sales."
+  },
+  {
+      "id": 10,
+      "title": "Sales Executive",
+      "salary": 70000,
+      "location": "Dallas",
+      "details": "Identifies and pursues new sales opportunities, builds client relationships, and negotiates contracts to meet sales targets."
+  },
+  {
+      "id": 11,
+      "title": "UX/UI Designer",
+      "salary": 73000,
+      "location": "Austin",
+      "details": "Designs user interfaces and experiences for digital products, focusing on usability, accessibility, and visual appeal."
+  },
+  {
+      "id": 12,
+      "title": "Operations Manager",
+      "salary": 80000,
+      "location": "Seattle",
+      "details": "Oversees daily operations, ensuring efficiency, productivity, and quality in the delivery of products and services."
+  },
+  {
+      "id": 13,
+      "title": "Customer Support Lead",
+      "salary": 58000,
+      "location": "Orlando",
+      "details": "Manages customer support teams, resolving issues and ensuring a high level of customer satisfaction."
+  },
+  {
+      "id": 14,
+      "title": "Content Strategist",
+      "salary": 67000,
+      "location": "Denver",
+      "details": "Develops and manages content strategies to align with business goals, enhancing brand voice and audience engagement."
+  },
+  {
+      "id": 15,
+      "title": "Product Manager",
+      "salary": 90000,
+      "location": "Portland",
+      "details": "Defines product vision and strategy, working closely with development teams to bring products from concept to launch."
+  },
+  {
+      "id": 16,
+      "title": "Accountant",
+      "salary": 75000,
+      "location": "Houston",
+      "details": "Manages financial records, prepares financial statements, and ensures compliance with tax laws and regulations."
+  },
+  {
+      "id": 17,
+      "title": "Network Engineer",
+      "salary": 83000,
+      "location": "San Diego",
+      "details": "Designs, implements, and manages network infrastructure, ensuring reliable and secure connectivity across systems."
+  },
+  {
+      "id": 18,
+      "title": "Business Analyst",
+      "salary": 79000,
+      "location": "Philadelphia",
+      "details": "Analyzes business processes and systems, providing insights and recommendations to improve efficiency and performance."
+  },
+  {
+      "id": 19,
+      "title": "Technical Support Specialist",
+      "salary": 62000,
+      "location": "Phoenix",
+      "details": "Provides technical assistance to users, troubleshooting hardware and software issues to ensure smooth operations."
+  },
+  {
+      "id": 20,
+      "title": "Cybersecurity Analyst",
+      "salary": 92000,
+      "location": "Washington, D.C.",
+      "details": "Monitors and protects IT systems from security threats, ensuring data integrity and compliance with security protocols."
+  }
+]
+}
